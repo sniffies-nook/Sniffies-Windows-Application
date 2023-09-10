@@ -40,6 +40,7 @@ The app will open, and sniffies application will load in a desktop window.
 5. Build and Package
 To build and package the app for distribution, you can use the following command:
 
+
     npm run electron:build
 
 This will generate executable files in the dist directory.
