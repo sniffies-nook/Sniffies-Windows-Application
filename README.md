@@ -1,5 +1,6 @@
 # Sniffies-Windows-Application
-![App Logo](sniffies-nook/Sniffies-Windows-Application/main/favicon.ico)
+![App Logo](sniffies-nook/Sniffies-Windows-Application/blob/main/favicon.ico)
+https://github.com/
 
 This is a desktop application that wraps sniffies.com website and allows you to use it as a standalone app on Windows.
 
