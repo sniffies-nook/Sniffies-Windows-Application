@@ -1,0 +1,27 @@
+{
+  "name": "sniffies",
+  "version": "1.0.0",
+  "description": "This Application is for educational purposes from sniffiesnook.com , Its just web to software version we dont hold any rights, all rights are of sniffies.com",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "electron:build": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.0",
+    "electron-builder": "^24.6.4"
+  },
+  "build": {
+    "appId": "com.sniffies.demo",
+    "productName": "Sniffies",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "portable",
+      "icon": "favicon.ico"
+    }
+  }
+}
